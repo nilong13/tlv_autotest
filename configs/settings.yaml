@@ -1,0 +1,5 @@
+paths:
+  tlv_exe:
+    windows: D:/Software/tlv/64位/TstCon64.exe
+    linux: /opt/tlv/TstCon
+  screenshots: logs/screenshots

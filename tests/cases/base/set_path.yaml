@@ -1,0 +1,11 @@
+id: "BASE-001"
+description: "配置文件基础设置"
+steps:
+  - method: "SetConfigFileEx (Method)"
+    params:
+      - "D:\\Software\\tlv\\64位\\test\\main.dat"
+      - false
+    close_after: true  # 执行后关闭窗口
+    validations:
+      - property: "return_value"
+        expected: "TRUE (VT_BOOL)"

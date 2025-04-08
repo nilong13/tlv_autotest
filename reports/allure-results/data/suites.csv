@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"用例路径: base\set_path.yaml
+用例描述: 配置文件基础设置","3735","test_case[base\\set_path.yaml::BASE-001]","tests","Tue Apr 08 02:47:48 CST 2025","passed","Tue Apr 08 02:47:52 CST 2025","TestTLVSuite","test_suite","",""

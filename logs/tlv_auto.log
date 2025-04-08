@@ -1,0 +1,2143 @@
+2025-04-05 16:09:55 [INFO    ] TLV_TEST:12 - ===== 测试会话开始 =====
+2025-04-05 16:10:12 [INFO    ] TLV_TEST:12 - ===== 测试会话开始 =====
+2025-04-05 16:15:38 [INFO    ] TLV_TEST:12 - ===== 测试会话开始 =====
+2025-04-05 16:22:11 [INFO    ] TLV_TEST:12 - ===== 测试会话开始 =====
+2025-04-05 16:37:45 [INFO    ] TLV_TEST:12 - ===== 测试会话开始 =====
+2025-04-05 16:44:10 [INFO    ] TLV_TEST:14 - ===== 测试会话开始 =====
+2025-04-05 16:44:10 [DEBUG   ] TLV_TEST:15 - 配置验证调试信息
+2025-04-05 16:46:28 [INFO    ] TLV_TEST:14 - ===== 测试会话开始 =====
+2025-04-05 16:46:28 [DEBUG   ] TLV_TEST:15 - 配置验证调试信息
+2025-04-05 17:02:48 [INFO    ] root:14 - ===== 测试会话开始 =====
+2025-04-05 17:02:48 [DEBUG   ] root:15 - 配置验证调试信息
+2025-04-05 17:02:48 [INFO    ] core.tlv_app:14 - TLV应用实例初始化开始
+2025-04-05 17:02:48 [INFO    ] core.tlv_app:28 - 正在插入控件: TLV Control
+2025-04-05 17:02:57 [DEBUG   ] core.tlv_app:30 - 控件 TLV Control 插入成功
+2025-04-05 17:02:57 [INFO    ] core.tlv_app:31 - 插入控件: TLV Control
+2025-04-05 17:03:09 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-05 17:03:10 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-05 17:03:14 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-05 17:03:15 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-05 17:28:17 [INFO    ] root:12 - ===== 测试会话开始 =====
+2025-04-05 17:28:17 [INFO    ] core.tlv_app:14 - TLV应用实例初始化开始
+2025-04-05 17:28:17 [DEBUG   ] core.pages.main_page.MainPage:16 - 初始化页面对象: core.pages.main_page.MainPage
+2025-04-05 17:28:17 [DEBUG   ] core.pages.main_page.MainPage:20 - 页面对象: core.pages.main_page.MainPage初始化成功
+2025-04-05 17:28:17 [INFO    ] core.tlv_app:28 - 正在进行控件: TLV Control 插入流程
+2025-04-05 17:28:17 [INFO    ] core.pages.main_page.MainPage:16 - 打开插入控件窗口
+2025-04-05 17:28:19 [INFO    ] core.pages.main_page.MainPage:20 - 插入控件窗口打开成功
+2025-04-05 17:28:19 [DEBUG   ] core.pages.insert_control_page.InsertControlPage:16 - 初始化页面对象: core.pages.insert_control_page.InsertControlPage
+2025-04-05 17:28:19 [DEBUG   ] core.pages.insert_control_page.InsertControlPage:20 - 页面对象: core.pages.insert_control_page.InsertControlPage初始化成功
+2025-04-05 17:28:19 [INFO    ] core.pages.insert_control_page.InsertControlPage:15 - 正在查找控件: TLV Control
+2025-04-05 17:28:24 [INFO    ] core.pages.insert_control_page.InsertControlPage:19 - 控件: TLV Control查找并选择
+2025-04-05 17:28:24 [INFO    ] core.pages.insert_control_page.InsertControlPage:25 - 关闭插入控件的窗口
+2025-04-05 17:28:25 [INFO    ] core.tlv_app:30 - 控件 TLV Control 插入流程结束
+2025-04-05 17:28:25 [INFO    ] core.pages.main_page.MainPage:43 - 调整控件布局
+2025-04-05 17:28:32 [INFO    ] core.pages.main_page.MainPage:49 - 控件布局调整完成
+2025-04-05 17:28:32 [INFO    ] core.pages.main_page.MainPage:26 - 打开方法调用窗口
+2025-04-05 17:28:33 [INFO    ] core.pages.main_page.MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:28:33 [DEBUG   ] core.pages.method_window_page.MethodWindowPage:16 - 初始化页面对象: core.pages.method_window_page.MethodWindowPage
+2025-04-05 17:28:33 [DEBUG   ] core.pages.method_window_page.MethodWindowPage:20 - 页面对象: core.pages.method_window_page.MethodWindowPage初始化成功
+2025-04-05 17:28:33 [INFO    ] core.pages.method_window_page.MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:28:34 [INFO    ] core.pages.method_window_page.MethodWindowPage:34 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-05 17:28:34 [INFO    ] core.pages.method_window_page.MethodWindowPage:39 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-05 17:28:34 [INFO    ] core.pages.method_window_page.MethodWindowPage:44 - 输入参数
+2025-04-05 17:28:36 [INFO    ] core.pages.method_window_page.MethodWindowPage:57 - 执行调用
+2025-04-05 17:28:36 [INFO    ] core.pages.method_window_page.MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:28:37 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-05 17:28:37 [INFO    ] core.pages.method_window_page.MethodWindowPage:67 - 关闭方法窗口
+2025-04-05 17:28:37 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-05 17:28:38 [INFO    ] core.pages.main_page.MainPage:26 - 打开方法调用窗口
+2025-04-05 17:28:39 [INFO    ] core.pages.main_page.MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:28:39 [DEBUG   ] core.pages.method_window_page.MethodWindowPage:16 - 初始化页面对象: core.pages.method_window_page.MethodWindowPage
+2025-04-05 17:28:39 [DEBUG   ] core.pages.method_window_page.MethodWindowPage:20 - 页面对象: core.pages.method_window_page.MethodWindowPage初始化成功
+2025-04-05 17:28:39 [INFO    ] core.pages.method_window_page.MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:28:39 [INFO    ] core.pages.method_window_page.MethodWindowPage:34 - 查找并选择方法 OpenWnd (Method)
+2025-04-05 17:28:40 [INFO    ] core.pages.method_window_page.MethodWindowPage:39 - 方法 OpenWnd (Method)已找到并选择
+2025-04-05 17:28:40 [INFO    ] core.pages.method_window_page.MethodWindowPage:44 - 输入参数
+2025-04-05 17:28:41 [INFO    ] core.pages.method_window_page.MethodWindowPage:57 - 执行调用
+2025-04-05 17:28:41 [INFO    ] core.pages.method_window_page.MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:28:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-05 17:28:42 [INFO    ] core.pages.method_window_page.MethodWindowPage:67 - 关闭方法窗口
+2025-04-05 17:28:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-05 17:28:44 [INFO    ] core.pages.main_page.MainPage:53 - 关闭主页面
+2025-04-05 17:28:44 [INFO    ] core.pages.main_page.MainPage:55 - 主页面已关闭
+2025-04-05 17:32:53 [INFO    ] root:12 - ===== 测试会话开始 =====
+2025-04-05 17:32:53 [INFO    ] core.tlv_app:14 - TLV应用实例初始化开始
+2025-04-05 17:32:53 [DEBUG   ] MainPage:17 - 初始化页面对象: MainPage
+2025-04-05 17:32:53 [DEBUG   ] MainPage:21 - 页面对象: MainPage初始化成功
+2025-04-05 17:32:53 [INFO    ] core.tlv_app:28 - 正在进行控件: TLV Control 插入流程
+2025-04-05 17:32:53 [INFO    ] MainPage:16 - 打开插入控件窗口
+2025-04-05 17:32:55 [INFO    ] MainPage:20 - 插入控件窗口打开成功
+2025-04-05 17:32:55 [DEBUG   ] InsertControlPage:17 - 初始化页面对象: InsertControlPage
+2025-04-05 17:32:55 [DEBUG   ] InsertControlPage:21 - 页面对象: InsertControlPage初始化成功
+2025-04-05 17:32:55 [INFO    ] InsertControlPage:15 - 正在查找控件: TLV Control
+2025-04-05 17:33:02 [INFO    ] InsertControlPage:19 - 控件: TLV Control查找并选择
+2025-04-05 17:33:02 [INFO    ] InsertControlPage:25 - 关闭插入控件的窗口
+2025-04-05 17:33:02 [INFO    ] core.tlv_app:30 - 控件 TLV Control 插入流程结束
+2025-04-05 17:33:02 [INFO    ] MainPage:43 - 调整控件布局
+2025-04-05 17:33:10 [INFO    ] MainPage:49 - 控件布局调整完成
+2025-04-05 17:33:10 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:33:11 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:33:11 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:33:11 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:33:11 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:33:11 [INFO    ] MethodWindowPage:34 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-05 17:33:12 [INFO    ] MethodWindowPage:39 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-05 17:33:12 [INFO    ] MethodWindowPage:44 - 输入参数
+2025-04-05 17:33:14 [INFO    ] MethodWindowPage:57 - 执行调用
+2025-04-05 17:33:14 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:33:14 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-05 17:33:14 [INFO    ] MethodWindowPage:67 - 关闭方法窗口
+2025-04-05 17:33:15 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-05 17:33:16 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:33:16 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:33:16 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:33:16 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:33:16 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:33:17 [INFO    ] MethodWindowPage:34 - 查找并选择方法 OpenWnd (Method)
+2025-04-05 17:33:18 [INFO    ] MethodWindowPage:39 - 方法 OpenWnd (Method)已找到并选择
+2025-04-05 17:33:18 [INFO    ] MethodWindowPage:44 - 输入参数
+2025-04-05 17:33:19 [INFO    ] MethodWindowPage:57 - 执行调用
+2025-04-05 17:33:19 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:33:19 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-05 17:33:20 [INFO    ] MethodWindowPage:67 - 关闭方法窗口
+2025-04-05 17:33:20 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-05 17:33:21 [INFO    ] MainPage:53 - 关闭主页面
+2025-04-05 17:33:22 [INFO    ] MainPage:55 - 主页面已关闭
+2025-04-05 17:36:21 [INFO    ] root:12 - ===== 测试会话开始 =====
+2025-04-05 17:36:21 [INFO    ] core.tlv_app:14 - TLV应用实例初始化开始
+2025-04-05 17:36:21 [DEBUG   ] MainPage:17 - 初始化页面对象: MainPage
+2025-04-05 17:36:21 [DEBUG   ] MainPage:21 - 页面对象: MainPage初始化成功
+2025-04-05 17:36:21 [INFO    ] core.tlv_app:28 - 正在进行控件: TLV Control 插入流程
+2025-04-05 17:36:21 [INFO    ] MainPage:16 - 打开插入控件窗口
+2025-04-05 17:36:23 [INFO    ] MainPage:20 - 插入控件窗口打开成功
+2025-04-05 17:36:23 [DEBUG   ] InsertControlPage:17 - 初始化页面对象: InsertControlPage
+2025-04-05 17:36:23 [DEBUG   ] InsertControlPage:21 - 页面对象: InsertControlPage初始化成功
+2025-04-05 17:36:23 [INFO    ] InsertControlPage:15 - 正在查找控件: TLV Control
+2025-04-05 17:36:29 [INFO    ] InsertControlPage:19 - 控件: TLV Control查找并选择
+2025-04-05 17:36:29 [INFO    ] InsertControlPage:25 - 关闭插入控件的窗口
+2025-04-05 17:36:29 [INFO    ] core.tlv_app:30 - 控件 TLV Control 插入流程结束
+2025-04-05 17:36:29 [INFO    ] MainPage:43 - 调整控件布局
+2025-04-05 17:36:37 [INFO    ] MainPage:49 - 控件布局调整完成
+2025-04-05 17:36:37 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:36:38 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:36:38 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:36:38 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:36:38 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:36:38 [INFO    ] MethodWindowPage:34 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-05 17:36:39 [INFO    ] MethodWindowPage:39 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-05 17:36:39 [INFO    ] MethodWindowPage:44 - 开始输入参数
+2025-04-05 17:36:39 [DEBUG   ] MethodWindowPage:51 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-05 17:36:40 [DEBUG   ] MethodWindowPage:51 - 输入参数: False
+2025-04-05 17:36:40 [INFO    ] MethodWindowPage:54 - 参数输入完毕
+2025-04-05 17:36:40 [INFO    ] MethodWindowPage:59 - 执行调用
+2025-04-05 17:36:41 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:36:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-05 17:36:41 [INFO    ] MethodWindowPage:69 - 关闭方法窗口
+2025-04-05 17:36:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-05 17:36:43 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:36:43 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:36:43 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:36:43 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:36:43 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:36:43 [INFO    ] MethodWindowPage:34 - 查找并选择方法 OpenWnd (Method)
+2025-04-05 17:36:45 [INFO    ] MethodWindowPage:39 - 方法 OpenWnd (Method)已找到并选择
+2025-04-05 17:36:45 [INFO    ] MethodWindowPage:44 - 开始输入参数
+2025-04-05 17:36:45 [DEBUG   ] MethodWindowPage:51 - 输入参数: test1
+2025-04-05 17:36:46 [INFO    ] MethodWindowPage:54 - 参数输入完毕
+2025-04-05 17:36:46 [INFO    ] MethodWindowPage:59 - 执行调用
+2025-04-05 17:36:46 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:36:46 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-05 17:36:46 [INFO    ] MethodWindowPage:69 - 关闭方法窗口
+2025-04-05 17:36:47 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-05 17:36:48 [INFO    ] MainPage:53 - 关闭主页面
+2025-04-05 17:55:36 [INFO    ] root:12 - ===== 测试会话开始 =====
+2025-04-05 17:55:36 [INFO    ] core.tlv_app:14 - TLV应用实例初始化开始
+2025-04-05 17:55:36 [DEBUG   ] MainPage:17 - 初始化页面对象: MainPage
+2025-04-05 17:55:36 [DEBUG   ] MainPage:21 - 页面对象: MainPage初始化成功
+2025-04-05 17:55:36 [INFO    ] core.tlv_app:28 - 正在进行控件: TLV Control 插入流程
+2025-04-05 17:55:36 [INFO    ] MainPage:16 - 打开插入控件窗口
+2025-04-05 17:55:38 [INFO    ] MainPage:20 - 插入控件窗口打开成功
+2025-04-05 17:55:38 [DEBUG   ] InsertControlPage:17 - 初始化页面对象: InsertControlPage
+2025-04-05 17:55:38 [DEBUG   ] InsertControlPage:21 - 页面对象: InsertControlPage初始化成功
+2025-04-05 17:55:38 [INFO    ] InsertControlPage:15 - 正在查找控件: TLV Control
+2025-04-05 17:55:43 [INFO    ] InsertControlPage:19 - 控件: TLV Control查找并选择
+2025-04-05 17:55:43 [INFO    ] InsertControlPage:25 - 关闭插入控件的窗口
+2025-04-05 17:55:44 [INFO    ] core.tlv_app:30 - 控件 TLV Control 插入流程结束
+2025-04-05 17:55:44 [INFO    ] MainPage:43 - 调整控件布局
+2025-04-05 17:55:52 [INFO    ] MainPage:49 - 控件布局调整完成
+2025-04-05 17:55:52 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:55:52 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:55:52 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:55:52 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:55:52 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:55:53 [INFO    ] MethodWindowPage:34 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-05 17:55:53 [INFO    ] MethodWindowPage:39 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-05 17:55:53 [INFO    ] MethodWindowPage:44 - 开始输入参数
+2025-04-05 17:55:54 [DEBUG   ] MethodWindowPage:51 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-05 17:55:55 [DEBUG   ] MethodWindowPage:51 - 输入参数: False
+2025-04-05 17:55:55 [INFO    ] MethodWindowPage:54 - 参数输入完毕
+2025-04-05 17:55:55 [INFO    ] MethodWindowPage:59 - 执行调用
+2025-04-05 17:55:55 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:55:56 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-05 17:55:56 [INFO    ] MethodWindowPage:69 - 关闭方法窗口
+2025-04-05 17:55:56 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-05 17:55:57 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:55:58 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:55:58 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:55:58 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:55:58 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:55:58 [INFO    ] MethodWindowPage:34 - 查找并选择方法 OpenWnd (Method)
+2025-04-05 17:55:59 [INFO    ] MethodWindowPage:39 - 方法 OpenWnd (Method)已找到并选择
+2025-04-05 17:55:59 [INFO    ] MethodWindowPage:44 - 开始输入参数
+2025-04-05 17:56:00 [DEBUG   ] MethodWindowPage:51 - 输入参数: test1
+2025-04-05 17:56:00 [INFO    ] MethodWindowPage:54 - 参数输入完毕
+2025-04-05 17:56:00 [INFO    ] MethodWindowPage:59 - 执行调用
+2025-04-05 17:56:01 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:56:01 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-05 17:56:01 [INFO    ] MethodWindowPage:69 - 关闭方法窗口
+2025-04-05 17:56:01 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-05 17:56:03 [INFO    ] MainPage:53 - 关闭主页面
+2025-04-05 17:59:17 [INFO    ] root:12 - ===== 测试会话开始 =====
+2025-04-05 17:59:17 [INFO    ] core.tlv_app:14 - TLV应用实例初始化开始
+2025-04-05 17:59:17 [DEBUG   ] MainPage:17 - 初始化页面对象: MainPage
+2025-04-05 17:59:17 [DEBUG   ] MainPage:21 - 页面对象: MainPage初始化成功
+2025-04-05 17:59:17 [INFO    ] core.tlv_app:28 - 正在进行控件: TLV Control 插入流程
+2025-04-05 17:59:17 [INFO    ] MainPage:16 - 打开插入控件窗口
+2025-04-05 17:59:19 [INFO    ] MainPage:20 - 插入控件窗口打开成功
+2025-04-05 17:59:19 [DEBUG   ] InsertControlPage:17 - 初始化页面对象: InsertControlPage
+2025-04-05 17:59:19 [DEBUG   ] InsertControlPage:21 - 页面对象: InsertControlPage初始化成功
+2025-04-05 17:59:19 [INFO    ] InsertControlPage:15 - 正在查找控件: TLV Control
+2025-04-05 17:59:25 [INFO    ] InsertControlPage:19 - 控件: TLV Control查找并选择
+2025-04-05 17:59:25 [INFO    ] InsertControlPage:25 - 关闭插入控件的窗口
+2025-04-05 17:59:25 [INFO    ] core.tlv_app:30 - 控件 TLV Control 插入流程结束
+2025-04-05 17:59:25 [INFO    ] MainPage:43 - 调整控件布局
+2025-04-05 17:59:33 [INFO    ] MainPage:49 - 控件布局调整完成
+2025-04-05 17:59:33 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:59:34 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:59:34 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:59:34 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:59:34 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:59:34 [INFO    ] MethodWindowPage:34 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-05 17:59:35 [INFO    ] MethodWindowPage:39 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-05 17:59:35 [INFO    ] MethodWindowPage:44 - 开始输入参数
+2025-04-05 17:59:35 [DEBUG   ] MethodWindowPage:51 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-05 17:59:36 [DEBUG   ] MethodWindowPage:51 - 输入参数: False
+2025-04-05 17:59:36 [INFO    ] MethodWindowPage:54 - 参数输入完毕
+2025-04-05 17:59:36 [INFO    ] MethodWindowPage:59 - 执行调用
+2025-04-05 17:59:37 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:59:37 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-05 17:59:37 [INFO    ] MethodWindowPage:69 - 关闭方法窗口
+2025-04-05 17:59:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-05 17:59:39 [INFO    ] MainPage:26 - 打开方法调用窗口
+2025-04-05 17:59:39 [INFO    ] MainPage:30 - 方法调用窗口打开成功
+2025-04-05 17:59:39 [DEBUG   ] MethodWindowPage:17 - 初始化页面对象: MethodWindowPage
+2025-04-05 17:59:39 [DEBUG   ] MethodWindowPage:21 - 页面对象: MethodWindowPage初始化成功
+2025-04-05 17:59:39 [INFO    ] MethodWindowPage:23 - 执行完整方法调用流程
+2025-04-05 17:59:39 [INFO    ] MethodWindowPage:34 - 查找并选择方法 OpenWnd (Method)
+2025-04-05 17:59:41 [INFO    ] MethodWindowPage:39 - 方法 OpenWnd (Method)已找到并选择
+2025-04-05 17:59:41 [INFO    ] MethodWindowPage:44 - 开始输入参数
+2025-04-05 17:59:41 [DEBUG   ] MethodWindowPage:51 - 输入参数: test1
+2025-04-05 17:59:42 [INFO    ] MethodWindowPage:54 - 参数输入完毕
+2025-04-05 17:59:42 [INFO    ] MethodWindowPage:59 - 执行调用
+2025-04-05 17:59:42 [INFO    ] MethodWindowPage:27 - 完整方法调用流程执行完毕
+2025-04-05 17:59:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-05 17:59:42 [INFO    ] MethodWindowPage:69 - 关闭方法窗口
+2025-04-05 17:59:43 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-05 17:59:44 [INFO    ] MainPage:53 - 关闭主页面
+2025-04-07 19:42:14 [INFO    ] root:12 - ===== 测试会话开始 =====
+2025-04-07 19:42:14 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-07 19:42:14 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-07 19:42:14 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-07 19:42:14 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-07 19:42:14 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-07 19:42:16 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-07 19:42:16 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-07 19:42:16 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-07 19:42:16 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-07 19:42:22 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-07 19:42:22 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-07 19:42:22 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-07 19:42:23 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-07 19:42:30 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-07 19:42:30 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-07 19:42:31 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-07 19:42:31 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-07 19:42:31 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-07 19:42:31 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-07 19:42:31 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-07 19:42:32 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-07 19:42:32 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-07 19:42:32 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-07 19:42:33 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-07 19:42:34 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-07 19:42:34 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-07 19:42:34 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-07 19:42:34 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-07 19:42:34 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-07 19:42:35 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-07 19:42:36 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-07 19:42:36 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-07 19:42:36 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-07 19:42:36 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-07 19:42:36 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-07 19:42:36 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-07 19:42:38 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-07 19:42:38 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-07 19:42:38 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-07 19:42:39 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-07 19:42:39 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-07 19:42:39 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-07 19:42:39 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-07 19:42:39 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-07 19:42:40 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-07 19:42:41 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-07 20:15:12 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-07 20:15:12 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-07 20:15:12 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-07 20:15:12 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-07 20:15:12 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-07 20:15:12 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-07 20:15:14 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-07 20:15:14 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-07 20:15:14 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-07 20:15:14 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-07 20:15:20 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-07 20:15:21 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-07 20:15:21 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-07 20:15:21 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-07 20:15:29 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-07 20:15:29 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-07 20:15:29 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-07 20:15:29 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-07 20:15:29 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-07 20:15:30 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-07 20:15:30 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-07 20:15:31 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-07 20:15:31 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-07 20:15:31 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-07 20:15:32 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-07 20:15:32 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-07 20:15:32 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-07 20:15:33 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-07 20:15:33 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-07 20:15:33 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-07 20:15:33 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-07 20:15:34 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-07 20:15:35 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-07 20:15:35 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-07 20:15:35 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-07 20:15:35 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-07 20:15:35 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-07 20:15:37 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-07 20:15:37 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-07 20:15:37 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-07 20:15:37 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-07 20:15:37 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-07 20:15:38 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-07 20:15:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-07 20:15:38 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-07 20:15:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-07 20:15:40 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-07 23:49:14 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-07 23:49:14 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-07 23:49:14 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-07 23:49:14 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-07 23:49:14 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-07 23:49:14 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-07 23:49:16 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-07 23:49:16 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-07 23:49:16 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-07 23:49:16 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-07 23:49:22 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-07 23:49:22 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-07 23:49:22 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-07 23:49:22 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-07 23:49:30 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-07 23:49:30 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-07 23:49:31 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-07 23:49:31 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-07 23:49:31 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-07 23:49:31 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-07 23:49:31 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-07 23:49:32 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-07 23:49:32 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-07 23:49:32 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-07 23:49:33 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-07 23:49:33 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-07 23:49:33 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-07 23:49:34 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-07 23:49:34 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-07 23:49:34 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-07 23:49:35 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-07 23:49:36 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-07 23:49:36 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-07 23:49:36 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-07 23:49:36 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-07 23:49:36 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-07 23:49:36 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-07 23:49:38 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-07 23:49:38 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-07 23:49:38 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-07 23:49:39 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-07 23:49:39 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-07 23:49:39 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-07 23:49:39 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-07 23:49:39 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-07 23:49:40 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-07 23:49:41 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:12:16 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:12:16 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:12:16 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:12:16 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:12:16 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:12:16 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:12:17 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:12:17 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:12:17 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:12:17 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:12:22 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:12:23 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:12:23 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:12:23 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:12:31 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:12:31 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:12:31 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:12:31 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:12:31 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:12:31 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:12:32 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:12:33 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:12:33 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:12:33 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:12:34 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:12:34 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:12:34 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:12:35 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:12:35 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:12:35 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:12:36 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:12:36 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:12:37 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:12:37 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:12:37 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:12:37 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:12:37 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:12:39 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:12:39 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:12:39 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:12:39 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:12:39 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:12:40 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:12:40 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:12:40 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:12:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:12:42 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:12:50 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:12:50 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:12:50 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:12:50 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:12:50 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:12:50 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:12:51 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:12:51 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:12:51 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:12:51 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:12:57 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:12:57 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:12:57 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:12:58 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:13:06 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:13:06 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:13:06 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:13:06 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:13:06 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:13:06 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:13:07 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:13:07 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:13:07 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:13:08 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:13:09 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:13:09 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:13:09 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:13:09 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:13:10 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:13:10 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:13:10 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:13:11 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:13:12 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:13:12 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:13:12 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:13:12 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:13:12 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:13:13 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:13:13 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:13:14 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:13:14 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:13:14 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:13:15 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:13:15 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:13:15 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:13:15 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:13:17 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:26:18 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:26:18 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:26:18 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:26:18 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:26:18 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:26:18 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:26:20 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:26:20 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:26:20 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:26:20 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:26:25 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:26:25 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:26:25 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:26:26 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:26:33 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:26:33 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:26:34 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:26:34 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:26:34 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:26:34 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:26:35 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:26:35 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:26:35 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:26:36 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:26:37 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:26:37 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:26:37 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:26:38 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:26:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:26:38 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:26:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:26:39 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:26:40 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:26:40 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:26:40 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:26:40 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:26:40 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:26:42 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:26:42 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:26:42 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:26:42 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:26:42 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:26:43 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:26:43 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:26:43 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:26:44 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:26:45 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:30:10 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:30:10 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:30:10 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:30:10 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:30:10 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:30:10 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:30:11 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:30:11 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:30:11 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:30:11 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:30:17 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:30:17 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:30:17 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:30:18 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:30:25 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:30:25 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:30:26 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:30:26 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:30:26 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:30:26 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:30:27 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:30:27 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:30:27 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:30:28 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:30:29 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:30:29 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:30:29 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:30:29 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:30:30 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:30:30 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:30:30 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:30:31 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:30:32 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:30:32 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:30:32 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:30:32 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:30:32 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:30:34 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:30:34 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:30:34 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:30:34 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:30:34 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:30:35 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:30:35 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:30:35 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:30:36 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:30:37 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:34:35 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:34:35 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:34:35 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:34:35 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:34:35 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:34:35 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:34:47 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:34:47 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:34:47 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:34:47 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:34:53 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:34:53 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:34:53 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:34:54 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:35:01 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:35:01 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:35:02 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:35:02 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:35:02 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:35:02 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:35:03 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:35:03 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:35:03 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:35:04 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:35:05 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:35:05 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:35:05 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:35:05 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:35:06 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:35:06 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:35:06 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:35:07 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:35:08 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:35:08 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:35:08 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:35:08 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:35:08 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:35:10 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:35:10 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:35:10 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:35:10 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:35:10 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:35:11 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:35:11 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:35:11 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:35:12 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:35:13 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:38:11 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:38:11 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:38:11 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:38:11 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:38:11 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:38:11 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:38:23 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:38:23 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:38:23 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:38:23 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:38:29 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:38:29 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:38:29 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:38:29 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:38:37 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:38:37 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:38:38 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:38:38 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:38:38 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:38:38 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:38:38 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:38:39 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:38:39 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:38:39 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:38:40 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:38:41 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:38:41 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:38:41 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:38:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:38:41 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:38:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:38:43 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:38:43 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:38:43 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:38:43 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:38:43 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:38:44 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:38:45 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:38:45 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:38:45 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:38:46 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:38:46 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:38:46 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:38:46 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:38:47 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:38:47 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:38:48 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:41:30 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:41:30 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:41:30 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:41:30 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:41:30 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:41:30 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:41:32 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:41:32 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:41:32 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:41:32 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:41:47 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:41:47 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:41:47 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:41:47 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:41:47 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:41:47 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:41:48 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:41:48 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:41:48 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:41:48 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:41:56 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:41:56 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:41:56 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:41:56 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:45:16 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:45:16 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:45:16 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:45:16 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:45:16 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:45:16 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:47:08 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:47:08 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:47:08 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:47:08 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:47:08 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:47:08 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:47:19 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:47:19 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:47:19 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:47:19 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:47:24 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:47:25 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:47:25 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:47:25 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:47:33 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:47:33 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:47:33 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:47:33 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:47:33 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:47:34 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:47:34 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:47:35 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:47:35 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:47:35 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:47:36 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:47:36 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:47:36 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:47:37 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:47:37 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 00:47:37 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:47:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 00:47:39 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:48:01 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:48:01 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:48:01 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:48:01 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:48:01 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:48:01 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:52:47 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:52:47 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:52:47 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:52:47 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:52:47 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:52:47 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:52:49 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:52:49 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:52:49 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:52:49 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:52:56 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:52:56 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:52:56 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:52:56 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:53:04 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:53:04 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:53:05 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:53:05 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:53:05 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:53:05 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:53:05 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:53:06 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:53:06 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:53:06 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:53:07 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:53:08 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:53:08 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:53:08 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:53:08 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 00:53:08 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:53:09 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 00:53:10 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:54:02 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:54:02 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:54:03 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:54:03 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:54:03 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:54:03 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:54:04 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:54:04 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:54:04 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:54:04 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:54:10 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:54:10 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:54:10 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:54:10 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:54:18 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:54:18 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:54:19 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:54:19 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:54:19 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:54:19 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:54:19 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:54:20 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:54:20 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:54:20 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:54:21 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:54:22 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:54:22 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:54:22 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:54:22 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 00:54:23 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:54:23 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 00:54:25 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:54:45 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:54:45 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:54:45 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:54:45 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:54:45 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:54:45 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:54:47 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:54:47 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:54:47 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:54:47 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:54:52 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:54:52 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:54:53 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:54:53 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:55:01 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:55:01 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:55:01 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:55:01 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:55:01 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:55:01 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:55:02 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:55:03 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:55:03 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:55:03 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:55:04 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:55:04 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:55:04 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:55:05 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:55:05 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 00:55:05 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:55:06 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 00:55:07 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:55:34 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 00:55:34 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:55:35 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:55:35 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:55:35 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:55:35 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:55:36 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:55:36 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:55:36 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:55:36 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:55:42 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:55:42 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:55:42 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:55:43 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:55:50 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:55:50 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:55:51 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:55:51 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:55:51 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:55:51 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:55:52 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:55:52 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:55:52 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:55:53 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:55:54 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:55:54 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:55:54 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:55:55 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:55:55 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 00:55:55 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:55:55 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 00:55:57 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 00:56:00 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 00:56:00 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 00:56:00 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 00:56:00 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 00:56:00 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 00:56:02 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 00:56:02 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 00:56:02 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 00:56:02 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 00:56:07 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 00:56:07 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 00:56:08 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 00:56:08 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 00:56:16 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 00:56:16 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:56:16 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:56:16 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:56:16 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:56:16 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:56:17 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 00:56:18 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 00:56:18 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:56:18 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 00:56:19 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 00:56:19 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:56:19 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:56:20 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:56:20 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 00:56:20 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:56:21 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 00:56:21 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 00:56:22 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 00:56:22 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 00:56:22 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 00:56:22 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 00:56:22 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 00:56:24 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 00:56:24 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 00:56:24 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 00:56:24 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 00:56:24 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 00:56:25 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 00:56:25 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 00:56:25 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 00:56:26 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 00:56:27 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:02:42 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 01:02:42 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:02:42 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:02:42 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:02:42 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:02:42 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:02:44 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:02:44 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:02:44 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:02:44 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:02:49 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:02:49 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:02:50 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:02:50 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:02:58 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:02:58 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:02:58 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:02:58 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:02:58 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:02:58 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:02:59 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:03:00 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:03:00 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:03:00 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:03:01 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:03:01 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:03:01 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:03:02 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:03:02 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 01:03:02 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:03:03 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 01:03:04 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:04:06 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 01:04:06 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:04:07 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:04:07 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:04:07 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:04:07 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:04:08 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:04:08 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:04:08 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:04:08 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:04:14 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:04:14 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:04:14 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:04:14 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:04:22 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:04:22 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:04:23 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:04:23 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:04:23 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:04:23 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:04:23 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:04:24 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:04:24 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:04:24 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:04:25 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:04:26 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:04:26 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:04:26 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:04:26 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 01:04:27 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:04:27 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 01:04:29 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:04:56 [INFO    ] root:22 - ===== 测试会话开始 =====
+2025-04-08 01:04:56 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:04:56 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:04:56 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:04:56 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:04:56 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:04:58 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:04:58 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:04:58 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:04:58 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:05:03 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:05:03 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:05:04 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:05:04 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:05:12 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:05:12 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:05:12 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:05:12 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:05:12 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:05:12 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:05:13 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:05:14 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:05:14 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:05:14 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:05:15 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:05:15 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:05:15 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:05:16 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:05:16 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 01:05:16 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:05:17 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 01:05:18 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:05:21 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:05:21 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:05:21 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:05:21 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:05:21 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:05:23 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:05:23 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:05:23 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:05:23 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:05:28 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:05:29 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:05:29 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:05:29 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:05:37 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:05:37 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:05:37 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:05:37 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:05:37 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:05:38 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:05:38 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:05:39 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:05:39 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:05:39 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:05:40 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:05:40 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:05:40 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:05:41 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:05:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 01:05:41 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:05:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 01:05:43 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:05:43 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:05:43 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:05:43 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:05:43 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:05:43 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 01:05:45 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 01:05:45 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:05:45 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 01:05:46 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:05:46 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:05:46 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:05:46 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 01:05:46 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:05:47 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 01:05:48 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:13:25 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 01:13:25 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:13:25 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:13:25 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:13:25 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:13:25 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:13:27 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:13:27 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:13:27 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:13:27 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:13:32 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:13:32 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:13:32 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:13:33 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:13:40 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:13:40 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:13:41 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:13:41 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:13:41 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:13:41 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:13:42 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:13:42 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:13:42 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:13:43 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:13:44 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:13:44 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:13:44 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:13:44 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:13:45 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 01:13:45 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:13:45 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 01:13:47 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:35:46 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 01:35:46 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:35:46 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:35:46 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:35:46 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:35:46 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:35:48 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:35:48 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:35:48 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:35:48 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:35:53 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:35:54 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:35:54 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:35:54 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:36:02 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:36:02 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:36:02 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:36:02 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:36:02 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:36:03 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:36:03 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:36:04 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:36:04 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:36:04 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:36:05 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:36:05 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:36:05 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:36:06 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:36:06 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 01:36:06 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:36:07 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 01:36:08 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:42:00 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 01:42:00 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:42:00 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:42:00 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:42:00 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:42:00 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:42:02 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:42:02 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:42:02 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:42:02 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:52:48 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 01:52:48 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 01:52:48 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 01:52:48 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 01:52:48 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 01:52:48 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 01:52:50 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 01:52:50 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 01:52:50 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 01:52:50 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 01:52:57 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 01:52:57 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 01:52:57 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 01:52:58 [INFO    ] MainPage:42 - 调整控件布局
+2025-04-08 01:53:05 [INFO    ] MainPage:48 - 控件布局调整完成
+2025-04-08 01:53:05 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 01:53:06 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 01:53:06 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 01:53:06 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 01:53:06 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 01:53:06 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 01:53:07 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 01:53:07 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 01:53:08 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 01:53:09 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 01:53:09 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 01:53:09 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 01:53:09 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 01:53:10 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 01:53:10 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 01:53:10 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 01:53:12 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 01:53:18 [INFO    ] root:172 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 02:01:29 [INFO    ] root:32 - Running in GUI mode
+2025-04-08 02:01:29 [INFO    ] root:59 - 日志系统初始化完成
+2025-04-08 02:01:37 [INFO    ] root:120 - 开始执行测试用例
+2025-04-08 02:01:37 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 02:01:37 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 02:01:38 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 02:01:38 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 02:01:38 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:01:38 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 02:01:39 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 02:01:39 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 02:01:39 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 02:01:39 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 02:01:45 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 02:01:45 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 02:01:45 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:01:45 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 02:01:46 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 02:01:46 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 02:01:46 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 02:01:46 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 02:01:46 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:01:47 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:01:47 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 02:01:47 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 02:01:48 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 02:01:49 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 02:01:49 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 02:01:49 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 02:01:49 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 02:01:50 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 02:01:50 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 02:01:52 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 02:01:55 [INFO    ] root:135 - ============================= test session starts =============================
+2025-04-08 02:01:55 [INFO    ] root:135 - platform win32 -- Python 3.11.5, pytest-8.3.5, pluggy-1.5.0 -- D:\Project\tlv_autotest\venv\Scripts\python.exe
+2025-04-08 02:01:55 [INFO    ] root:135 - cachedir: .pytest_cache
+2025-04-08 02:01:55 [INFO    ] root:135 - rootdir: D:\Project\tlv_autotest
+2025-04-08 02:01:55 [INFO    ] root:135 - configfile: pytest.ini
+2025-04-08 02:01:55 [INFO    ] root:135 - plugins: allure-pytest-2.14.0
+2025-04-08 02:01:55 [INFO    ] root:135 - collecting ... collected 1 item
+2025-04-08 02:01:55 [INFO    ] root:135 - 
+2025-04-08 02:01:55 [INFO    ] root:135 - tests/test_suite.py::TestTLVSuite::test_case[base\\set_path.yaml::BASE-001] 
+2025-04-08 02:01:55 [INFO    ] root:135 - ------------------------------- live log setup --------------------------------
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:37 [INFO    ] conftest.py:19 - ===== 测试会话开始 =====
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:37 [INFO    ] tlv_app.py:13 - TLV应用实例初始化开始
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:38 [INFO    ] tlv_app.py:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:38 [INFO    ] main_page.py:15 - 打开插入控件窗口
+2025-04-08 02:01:55 [INFO    ] root:135 - 等待控件出现
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:39 [INFO    ] main_page.py:19 - 插入控件窗口打开成功
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:39 [INFO    ] insert_control_page.py:14 - 正在查找控件: TLV Control
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:45 [INFO    ] insert_control_page.py:18 - 控件: TLV Control查找并选择
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:45 [INFO    ] insert_control_page.py:24 - 关闭插入控件的窗口
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:45 [INFO    ] tlv_app.py:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:45 [INFO    ] main_page.py:25 - 打开方法调用窗口
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:46 [INFO    ] main_page.py:29 - 方法调用窗口打开成功
+2025-04-08 02:01:55 [INFO    ] root:135 - -------------------------------- live log call --------------------------------
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:46 [INFO    ] method_window_page.py:19 - 执行完整方法调用流程
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:46 [INFO    ] method_window_page.py:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:47 [INFO    ] method_window_page.py:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:47 [INFO    ] method_window_page.py:40 - 开始输入参数
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:49 [INFO    ] method_window_page.py:50 - 参数输入完毕
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:49 [INFO    ] method_window_page.py:55 - 执行调用
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:49 [INFO    ] method_window_page.py:23 - 完整方法调用流程执行完毕
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:50 [INFO    ] method_window_page.py:65 - 关闭方法窗口
+2025-04-08 02:01:55 [INFO    ] root:135 - PASSED
+2025-04-08 02:01:55 [INFO    ] root:135 - ------------------------------ live log teardown ------------------------------
+2025-04-08 02:01:55 [INFO    ] root:135 - 2025-04-08 02:01:52 [INFO    ] main_page.py:52 - 关闭主页面
+2025-04-08 02:01:55 [INFO    ] root:135 - 
+2025-04-08 02:01:55 [INFO    ] root:135 - 
+2025-04-08 02:01:55 [INFO    ] root:135 - ============================= 1 passed in 17.34s ==============================
+2025-04-08 02:01:58 [INFO    ] root:153 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 02:10:15 [INFO    ] root:32 - Running in GUI mode
+2025-04-08 02:10:15 [INFO    ] root:59 - 日志系统初始化完成
+2025-04-08 02:10:28 [INFO    ] root:120 - 开始执行测试用例
+2025-04-08 02:10:28 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 02:10:28 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 02:10:28 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 02:10:28 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 02:10:28 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:10:28 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 02:10:29 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 02:10:29 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 02:10:29 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 02:10:29 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 02:10:35 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 02:10:35 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 02:10:35 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:10:35 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 02:10:36 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 02:10:36 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 02:10:36 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 02:10:36 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 02:10:36 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:10:37 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:10:37 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 02:10:37 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 02:10:38 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 02:10:39 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 02:10:39 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 02:10:39 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 02:10:39 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 02:10:40 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 02:10:40 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 02:10:41 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 02:10:45 [INFO    ] root:135 - ============================= test session starts =============================
+2025-04-08 02:10:45 [INFO    ] root:135 - platform win32 -- Python 3.11.5, pytest-8.3.5, pluggy-1.5.0 -- D:\Project\tlv_autotest\venv\Scripts\python.exe
+2025-04-08 02:10:45 [INFO    ] root:135 - cachedir: .pytest_cache
+2025-04-08 02:10:45 [INFO    ] root:135 - rootdir: D:\Project\tlv_autotest
+2025-04-08 02:10:45 [INFO    ] root:135 - configfile: pytest.ini
+2025-04-08 02:10:45 [INFO    ] root:135 - plugins: allure-pytest-2.14.0
+2025-04-08 02:10:45 [INFO    ] root:135 - collecting ... collected 1 item
+2025-04-08 02:10:45 [INFO    ] root:135 - 
+2025-04-08 02:10:45 [INFO    ] root:135 - tests/test_suite.py::TestTLVSuite::test_case[base\\set_path.yaml::BASE-001] 
+2025-04-08 02:10:45 [INFO    ] root:135 - ------------------------------- live log setup --------------------------------
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:28 [INFO    ] conftest.py:19 - ===== 测试会话开始 =====
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:28 [INFO    ] tlv_app.py:13 - TLV应用实例初始化开始
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:28 [INFO    ] tlv_app.py:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:28 [INFO    ] main_page.py:15 - 打开插入控件窗口
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:29 [INFO    ] main_page.py:19 - 插入控件窗口打开成功
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:29 [INFO    ] insert_control_page.py:14 - 正在查找控件: TLV Control
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:35 [INFO    ] insert_control_page.py:18 - 控件: TLV Control查找并选择
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:35 [INFO    ] insert_control_page.py:24 - 关闭插入控件的窗口
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:35 [INFO    ] tlv_app.py:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:35 [INFO    ] main_page.py:25 - 打开方法调用窗口
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:36 [INFO    ] main_page.py:29 - 方法调用窗口打开成功
+2025-04-08 02:10:45 [INFO    ] root:135 - -------------------------------- live log call --------------------------------
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:36 [INFO    ] method_window_page.py:19 - 执行完整方法调用流程
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:36 [INFO    ] method_window_page.py:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:37 [INFO    ] method_window_page.py:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:37 [INFO    ] method_window_page.py:40 - 开始输入参数
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:39 [INFO    ] method_window_page.py:50 - 参数输入完毕
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:39 [INFO    ] method_window_page.py:55 - 执行调用
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:39 [INFO    ] method_window_page.py:23 - 完整方法调用流程执行完毕
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:40 [INFO    ] method_window_page.py:65 - 关闭方法窗口
+2025-04-08 02:10:45 [INFO    ] root:135 - PASSED
+2025-04-08 02:10:45 [INFO    ] root:135 - ------------------------------ live log teardown ------------------------------
+2025-04-08 02:10:45 [INFO    ] root:135 - 2025-04-08 02:10:41 [INFO    ] main_page.py:52 - 关闭主页面
+2025-04-08 02:10:45 [INFO    ] root:135 - 
+2025-04-08 02:10:45 [INFO    ] root:135 - 
+2025-04-08 02:10:45 [INFO    ] root:135 - ============================= 1 passed in 16.62s ==============================
+2025-04-08 02:10:48 [INFO    ] root:153 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 02:37:27 [INFO    ] root:32 - Running in GUI mode
+2025-04-08 02:37:27 [INFO    ] root:59 - 日志系统初始化完成
+2025-04-08 02:37:36 [INFO    ] root:120 - 开始执行测试用例
+2025-04-08 02:37:36 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 02:37:36 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 02:37:36 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 02:37:36 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 02:37:36 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:37:36 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 02:37:38 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 02:37:38 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 02:37:38 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 02:37:38 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 02:37:44 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 02:37:44 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 02:37:44 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:37:44 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 02:37:45 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 02:37:45 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 02:37:45 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 02:37:45 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 02:37:45 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:37:46 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:37:46 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 02:37:46 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 02:37:47 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 02:37:47 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 02:37:47 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 02:37:48 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 02:37:48 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 02:37:48 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 02:37:48 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 02:37:50 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 02:37:53 [INFO    ] root:135 - ============================= test session starts =============================
+2025-04-08 02:37:53 [INFO    ] root:135 - platform win32 -- Python 3.11.5, pytest-8.3.5, pluggy-1.5.0 -- D:\Project\tlv_autotest\venv\Scripts\python.exe
+2025-04-08 02:37:53 [INFO    ] root:135 - cachedir: .pytest_cache
+2025-04-08 02:37:53 [INFO    ] root:135 - rootdir: D:\Project\tlv_autotest
+2025-04-08 02:37:53 [INFO    ] root:135 - configfile: pytest.ini
+2025-04-08 02:37:53 [INFO    ] root:135 - plugins: allure-pytest-2.14.0
+2025-04-08 02:37:53 [INFO    ] root:135 - collecting ... collected 1 item
+2025-04-08 02:37:53 [INFO    ] root:135 - 
+2025-04-08 02:37:53 [INFO    ] root:135 - tests/test_suite.py::TestTLVSuite::test_case[base\\set_path.yaml::BASE-001] 
+2025-04-08 02:37:53 [INFO    ] root:135 - ------------------------------- live log setup --------------------------------
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:36 [INFO    ] conftest.py:19 - ===== 测试会话开始 =====
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:36 [INFO    ] tlv_app.py:13 - TLV应用实例初始化开始
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:36 [INFO    ] tlv_app.py:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:36 [INFO    ] main_page.py:15 - 打开插入控件窗口
+2025-04-08 02:37:53 [INFO    ] root:135 - 等待控件出现
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:38 [INFO    ] main_page.py:19 - 插入控件窗口打开成功
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:38 [INFO    ] insert_control_page.py:14 - 正在查找控件: TLV Control
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:44 [INFO    ] insert_control_page.py:18 - 控件: TLV Control查找并选择
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:44 [INFO    ] insert_control_page.py:24 - 关闭插入控件的窗口
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:44 [INFO    ] tlv_app.py:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:44 [INFO    ] main_page.py:25 - 打开方法调用窗口
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:45 [INFO    ] main_page.py:29 - 方法调用窗口打开成功
+2025-04-08 02:37:53 [INFO    ] root:135 - -------------------------------- live log call --------------------------------
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:45 [INFO    ] method_window_page.py:19 - 执行完整方法调用流程
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:45 [INFO    ] method_window_page.py:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:46 [INFO    ] method_window_page.py:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:46 [INFO    ] method_window_page.py:40 - 开始输入参数
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:47 [INFO    ] method_window_page.py:50 - 参数输入完毕
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:47 [INFO    ] method_window_page.py:55 - 执行调用
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:48 [INFO    ] method_window_page.py:23 - 完整方法调用流程执行完毕
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:48 [INFO    ] method_window_page.py:65 - 关闭方法窗口
+2025-04-08 02:37:53 [INFO    ] root:135 - PASSED
+2025-04-08 02:37:53 [INFO    ] root:135 - ------------------------------ live log teardown ------------------------------
+2025-04-08 02:37:53 [INFO    ] root:135 - 2025-04-08 02:37:50 [INFO    ] main_page.py:52 - 关闭主页面
+2025-04-08 02:37:53 [INFO    ] root:135 - 
+2025-04-08 02:37:53 [INFO    ] root:135 - 
+2025-04-08 02:37:53 [INFO    ] root:135 - ============================= 1 passed in 16.76s ==============================
+2025-04-08 02:37:56 [INFO    ] root:153 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 02:41:11 [INFO    ] root:59 - 日志系统初始化完成
+2025-04-08 02:41:18 [INFO    ] root:120 - 开始执行测试用例
+2025-04-08 02:41:18 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 02:41:18 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 02:41:18 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 02:41:18 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 02:41:18 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:41:18 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 02:41:20 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 02:41:20 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 02:41:20 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 02:41:20 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 02:41:25 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 02:41:26 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 02:41:26 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:41:26 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 02:41:26 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 02:41:26 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 02:41:26 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 02:41:26 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 02:41:27 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:41:27 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:41:27 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 02:41:28 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 02:41:28 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 02:41:29 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 02:41:29 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 02:41:29 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 02:41:29 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 02:41:29 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 02:41:30 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 02:41:31 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 02:41:34 [INFO    ] root:135 - ============================= test session starts =============================
+2025-04-08 02:41:34 [INFO    ] root:135 - platform win32 -- Python 3.11.5, pytest-8.3.5, pluggy-1.5.0 -- D:\Project\tlv_autotest\venv\Scripts\python.exe
+2025-04-08 02:41:34 [INFO    ] root:135 - cachedir: .pytest_cache
+2025-04-08 02:41:34 [INFO    ] root:135 - rootdir: D:\Project\tlv_autotest
+2025-04-08 02:41:34 [INFO    ] root:135 - configfile: pytest.ini
+2025-04-08 02:41:34 [INFO    ] root:135 - plugins: allure-pytest-2.14.0
+2025-04-08 02:41:34 [INFO    ] root:135 - collecting ... collected 1 item
+2025-04-08 02:41:34 [INFO    ] root:135 - 
+2025-04-08 02:41:34 [INFO    ] root:135 - tests/test_suite.py::TestTLVSuite::test_case[base\\set_path.yaml::BASE-001] 
+2025-04-08 02:41:34 [INFO    ] root:135 - ------------------------------- live log setup --------------------------------
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:18 [INFO    ] conftest.py:19 - ===== 测试会话开始 =====
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:18 [INFO    ] tlv_app.py:13 - TLV应用实例初始化开始
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:18 [INFO    ] tlv_app.py:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:18 [INFO    ] main_page.py:15 - 打开插入控件窗口
+2025-04-08 02:41:34 [INFO    ] root:135 - 等待控件出现
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:20 [INFO    ] main_page.py:19 - 插入控件窗口打开成功
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:20 [INFO    ] insert_control_page.py:14 - 正在查找控件: TLV Control
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:25 [INFO    ] insert_control_page.py:18 - 控件: TLV Control查找并选择
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:26 [INFO    ] insert_control_page.py:24 - 关闭插入控件的窗口
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:26 [INFO    ] tlv_app.py:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:26 [INFO    ] main_page.py:25 - 打开方法调用窗口
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:26 [INFO    ] main_page.py:29 - 方法调用窗口打开成功
+2025-04-08 02:41:34 [INFO    ] root:135 - -------------------------------- live log call --------------------------------
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:26 [INFO    ] method_window_page.py:19 - 执行完整方法调用流程
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:27 [INFO    ] method_window_page.py:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:27 [INFO    ] method_window_page.py:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:27 [INFO    ] method_window_page.py:40 - 开始输入参数
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:29 [INFO    ] method_window_page.py:50 - 参数输入完毕
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:29 [INFO    ] method_window_page.py:55 - 执行调用
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:29 [INFO    ] method_window_page.py:23 - 完整方法调用流程执行完毕
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:29 [INFO    ] method_window_page.py:65 - 关闭方法窗口
+2025-04-08 02:41:34 [INFO    ] root:135 - PASSED
+2025-04-08 02:41:34 [INFO    ] root:135 - ------------------------------ live log teardown ------------------------------
+2025-04-08 02:41:34 [INFO    ] root:135 - 2025-04-08 02:41:31 [INFO    ] main_page.py:52 - 关闭主页面
+2025-04-08 02:41:34 [INFO    ] root:135 - 
+2025-04-08 02:41:34 [INFO    ] root:135 - 
+2025-04-08 02:41:34 [INFO    ] root:135 - ============================= 1 passed in 16.26s ==============================
+2025-04-08 02:41:37 [INFO    ] root:153 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 02:45:16 [INFO    ] tlv_auto:19 - ===== 测试会话开始 =====
+2025-04-08 02:46:23 [INFO    ] root:59 - 日志系统初始化完成
+2025-04-08 02:46:30 [INFO    ] root:120 - 开始执行测试用例
+2025-04-08 02:46:30 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 02:46:30 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 02:46:30 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 02:46:30 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 02:46:30 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:46:30 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 02:46:32 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 02:46:32 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 02:46:32 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 02:46:32 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 02:46:37 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 02:46:37 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 02:46:37 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:46:37 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 02:46:38 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 02:46:38 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 02:46:38 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 02:46:38 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 02:46:38 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:46:39 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:46:39 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 02:46:39 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 02:46:40 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 02:46:40 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 02:46:40 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 02:46:41 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 02:46:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 02:46:41 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 02:46:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 02:46:43 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 02:46:46 [INFO    ] root:135 - ============================= test session starts =============================
+2025-04-08 02:46:46 [INFO    ] root:135 - platform win32 -- Python 3.11.5, pytest-8.3.5, pluggy-1.5.0 -- D:\Project\tlv_autotest\venv\Scripts\python.exe
+2025-04-08 02:46:46 [INFO    ] root:135 - cachedir: .pytest_cache
+2025-04-08 02:46:46 [INFO    ] root:135 - rootdir: D:\Project\tlv_autotest
+2025-04-08 02:46:46 [INFO    ] root:135 - configfile: pytest.ini
+2025-04-08 02:46:46 [INFO    ] root:135 - plugins: allure-pytest-2.14.0
+2025-04-08 02:46:46 [INFO    ] root:135 - collecting ... collected 1 item
+2025-04-08 02:46:46 [INFO    ] root:135 - 
+2025-04-08 02:46:46 [INFO    ] root:135 - tests/test_suite.py::TestTLVSuite::test_case[base\\set_path.yaml::BASE-001] 
+2025-04-08 02:46:46 [INFO    ] root:135 - ------------------------------- live log setup --------------------------------
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:30 [INFO    ] conftest.py:19 - ===== 测试会话开始 =====
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:30 [INFO    ] tlv_app.py:13 - TLV应用实例初始化开始
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:30 [INFO    ] tlv_app.py:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:30 [INFO    ] main_page.py:15 - 打开插入控件窗口
+2025-04-08 02:46:46 [INFO    ] root:135 - 等待控件出现
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:32 [INFO    ] main_page.py:19 - 插入控件窗口打开成功
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:32 [INFO    ] insert_control_page.py:14 - 正在查找控件: TLV Control
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:37 [INFO    ] insert_control_page.py:18 - 控件: TLV Control查找并选择
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:37 [INFO    ] insert_control_page.py:24 - 关闭插入控件的窗口
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:37 [INFO    ] tlv_app.py:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:37 [INFO    ] main_page.py:25 - 打开方法调用窗口
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:38 [INFO    ] main_page.py:29 - 方法调用窗口打开成功
+2025-04-08 02:46:46 [INFO    ] root:135 - -------------------------------- live log call --------------------------------
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:38 [INFO    ] method_window_page.py:19 - 执行完整方法调用流程
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:38 [INFO    ] method_window_page.py:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:39 [INFO    ] method_window_page.py:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:39 [INFO    ] method_window_page.py:40 - 开始输入参数
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:40 [INFO    ] method_window_page.py:50 - 参数输入完毕
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:40 [INFO    ] method_window_page.py:55 - 执行调用
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:41 [INFO    ] method_window_page.py:23 - 完整方法调用流程执行完毕
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:41 [INFO    ] method_window_page.py:65 - 关闭方法窗口
+2025-04-08 02:46:46 [INFO    ] root:135 - PASSED
+2025-04-08 02:46:46 [INFO    ] root:135 - ------------------------------ live log teardown ------------------------------
+2025-04-08 02:46:46 [INFO    ] root:135 - 2025-04-08 02:46:43 [INFO    ] main_page.py:52 - 关闭主页面
+2025-04-08 02:46:46 [INFO    ] root:135 - 
+2025-04-08 02:46:46 [INFO    ] root:135 - 
+2025-04-08 02:46:46 [INFO    ] root:135 - ============================= 1 passed in 15.70s ==============================
+2025-04-08 02:46:49 [INFO    ] root:153 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 02:47:32 [INFO    ] root:59 - 日志系统初始化完成
+2025-04-08 02:47:41 [INFO    ] root:120 - 开始执行测试用例
+2025-04-08 02:47:41 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 02:47:41 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 02:47:41 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 02:47:41 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 02:47:41 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 02:47:41 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 02:47:43 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 02:47:43 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 02:47:43 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 02:47:43 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 02:47:48 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 02:47:48 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 02:47:48 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 02:47:48 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 02:47:48 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 02:47:48 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 02:47:48 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 02:47:49 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 02:47:49 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 02:47:50 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 02:47:50 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 02:47:50 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 02:47:51 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 02:47:51 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 02:47:51 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 02:47:51 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 02:47:52 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 02:47:52 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 02:47:52 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 02:47:53 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 02:47:59 [INFO    ] root:141 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 03:08:20 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:08:20 [INFO    ] root:99 - 以命令行模式运行
+2025-04-08 03:08:20 [INFO    ] root:43 - 运行测试: pytest -v -s --capture=no tests/test_suite.py
+2025-04-08 03:08:20 [WARNING ] root:48 - 测试执行完成，但存在失败的测试，返回码: 4
+2025-04-08 03:08:20 [INFO    ] root:58 - 生成测试报告: 从 ./temps 到 ./reports/allure-results
+2025-04-08 03:08:20 [ERROR   ] root:76 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 03:09:11 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:09:11 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:09:11 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:09:27 [INFO    ] root:141 - 开始执行测试用例
+2025-04-08 03:09:27 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 03:09:27 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 03:09:27 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 03:09:27 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 03:09:27 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 03:09:27 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 03:09:28 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 03:09:28 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 03:09:28 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 03:09:28 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 03:09:34 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 03:09:34 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 03:09:34 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 03:09:34 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 03:09:34 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 03:09:34 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 03:09:34 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 03:09:35 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 03:09:35 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 03:09:36 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 03:09:36 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 03:09:36 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 03:09:37 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 03:09:37 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 03:09:37 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 03:09:37 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 03:09:37 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 03:09:38 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 03:09:38 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 03:09:39 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 03:09:42 [ERROR   ] root:165 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 03:09:42 [INFO    ] root:184 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 03:09:54 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:09:54 [INFO    ] root:99 - 以命令行模式运行
+2025-04-08 03:09:54 [INFO    ] root:43 - 运行测试: pytest -v -s --capture=no tests/test_suite.py
+2025-04-08 03:09:54 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 03:09:54 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 03:09:55 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 03:09:55 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 03:09:55 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 03:09:55 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 03:09:56 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 03:09:56 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 03:09:56 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 03:09:56 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 03:10:01 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 03:10:02 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 03:10:02 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 03:10:02 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 03:10:02 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 03:10:02 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 03:10:02 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 03:10:02 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 03:10:03 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 03:10:03 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 03:10:03 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 03:10:03 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 03:10:04 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 03:10:05 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 03:10:05 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 03:10:05 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 03:10:05 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 03:10:05 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 03:10:06 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 03:10:07 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 03:10:10 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 03:10:10 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 03:10:10 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 03:10:10 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 03:10:10 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 03:10:12 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 03:10:12 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 03:10:12 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 03:10:12 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 03:10:17 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 03:10:17 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 03:10:18 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 03:10:18 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 03:10:18 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 03:10:18 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 03:10:18 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 03:10:18 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 03:10:18 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 03:10:19 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 03:10:19 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 03:10:19 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 03:10:20 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 03:10:21 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 03:10:21 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 03:10:21 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 03:10:21 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step0_validation
+2025-04-08 03:10:21 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 03:10:22 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_0_xdg
+2025-04-08 03:10:22 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 03:10:23 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 03:10:23 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 03:10:23 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 03:10:23 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 03:10:23 [INFO    ] MethodWindowPage:30 - 查找并选择方法 OpenWnd (Method)
+2025-04-08 03:10:24 [INFO    ] MethodWindowPage:35 - 方法 OpenWnd (Method)已找到并选择
+2025-04-08 03:10:24 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 03:10:25 [DEBUG   ] MethodWindowPage:47 - 输入参数: test1
+2025-04-08 03:10:25 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 03:10:25 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 03:10:25 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 03:10:25 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_step1_validation
+2025-04-08 03:10:26 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 03:10:26 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-002_1_xdg
+2025-04-08 03:10:27 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 03:10:30 [INFO    ] root:58 - 生成测试报告: 从 ./temps 到 ./reports/allure-results
+2025-04-08 03:10:30 [ERROR   ] root:76 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 03:11:27 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:11:27 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:11:27 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:11:27 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:11:35 [INFO    ] root:141 - 开始执行测试用例
+2025-04-08 03:11:35 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 03:11:35 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 03:11:35 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 03:11:35 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 03:11:35 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 03:11:35 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 03:11:36 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 03:11:36 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 03:11:36 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 03:11:36 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 03:11:42 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 03:11:43 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 03:11:43 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 03:11:43 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 03:11:43 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 03:11:43 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 03:11:43 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 03:11:43 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 03:11:44 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 03:11:44 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 03:11:44 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 03:11:44 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 03:11:45 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 03:11:46 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 03:11:46 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 03:11:46 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 03:11:46 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 03:11:46 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 03:11:47 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 03:11:48 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 03:11:51 [ERROR   ] root:165 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 03:11:51 [INFO    ] root:184 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 03:12:51 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:12:51 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:12:51 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:12:51 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:15:14 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:15:14 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:15:14 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:15:14 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:16:09 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:16:09 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:16:09 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:16:09 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:19:35 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:19:35 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:19:35 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:19:36 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:24:46 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:24:46 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:24:46 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:24:46 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:25:23 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:25:23 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:25:23 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:25:23 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:25:38 [INFO    ] root:141 - 开始执行测试用例
+2025-04-08 03:25:38 [ERROR   ] root:165 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 03:25:38 [INFO    ] root:184 - 成功执行了 0 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 03:26:26 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:26:26 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:26:26 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:26:27 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:31:27 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:31:27 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:31:27 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:31:27 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:31:35 [DEBUG   ] gui.test_runner_view:303 - 复制的文本: '08 03:31:27,519 [INFO    ] test_runner_controller.py:66 - 日志系统'
+2025-04-08 03:31:35 [DEBUG   ] gui.test_runner_view:304 - 剪贴板内容: 'DEBUG: 复制操作被触发
+DEBUG: 选中的文本: '2025-04-08 03:26:27,078 [INFO    ] test_runner_controller.py:66 - 日志系统初始化完成'
+DEBUG: 文本已复制到剪贴板: 'DEBUG: 复制操作被触发
+DEBUG: 选中的文本: '04-08 03:19:36,033 [INFO    ] test_runner_controll'
+DEBUG: 复制操作完成
+DEBUG: 复制操作被触发
+DEBUG: 选中的文本: '2025-04-08 03:19:36,033 [INFO    ] test_runner_controller.py:66 - 日志系'
+DEBUG: 复制操作完成'
+DEBUG: 剪贴板当前内容: 'DEBUG: 复制操作被触发
+DEBUG: 选中的文本: '04-08 03:19:36,033 [INFO    ] test_runner_controll'
+DEBUG: 复制操作完成
+DEBUG: 复制操作被触发
+DEBUG: 选中的文本: '2025-04-08 03:19:36,033 [INFO    ] test_runner_controller.py:66 - 日志系'
+DEBUG: 复制操作完成''
+2025-04-08 03:37:18 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:37:18 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:37:18 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:37:19 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:37:48 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:37:48 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:37:48 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:37:49 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:54:37 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 03:54:37 [INFO    ] root:82 - 以GUI模式运行
+2025-04-08 03:54:37 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 03:54:38 [INFO    ] root:66 - 日志系统初始化完成
+2025-04-08 03:54:43 [INFO    ] root:141 - 开始执行测试用例
+2025-04-08 03:54:43 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 03:54:43 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 03:54:43 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 03:54:43 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 03:54:43 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 03:54:43 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 03:54:44 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 03:54:44 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 03:54:44 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 03:54:44 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 03:54:50 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 03:54:50 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 03:54:50 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 03:54:50 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 03:54:50 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 03:54:50 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 03:54:50 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 03:54:51 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 03:54:51 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 03:54:52 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 03:54:52 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 03:54:52 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 03:54:53 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 03:54:53 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 03:54:53 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 03:54:53 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 03:54:54 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 03:54:54 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 03:54:54 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 03:54:56 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 03:54:59 [ERROR   ] root:165 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 03:54:59 [INFO    ] root:184 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 13:33:55 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:33:55 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:33:55 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:33:55 [INFO    ] root:61 - 日志系统初始化完成
+2025-04-08 13:34:02 [INFO    ] root:136 - 开始执行测试用例
+2025-04-08 13:34:03 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 13:34:03 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 13:34:03 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 13:34:03 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 13:34:03 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 13:34:03 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 13:34:04 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 13:34:04 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 13:34:04 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 13:34:04 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 13:34:10 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 13:34:10 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 13:34:10 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 13:34:10 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 13:34:11 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 13:34:11 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 13:34:11 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 13:34:11 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 13:34:11 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 13:34:12 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 13:34:12 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 13:34:12 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 13:34:13 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 13:34:13 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 13:34:13 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 13:34:14 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 13:34:14 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 13:34:14 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 13:34:14 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 13:34:16 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 13:34:19 [ERROR   ] root:160 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 13:34:19 [INFO    ] root:179 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 13:35:21 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:35:21 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:35:21 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:35:22 [INFO    ] root:61 - 日志系统初始化完成
+2025-04-08 13:40:50 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:40:50 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:40:50 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:40:50 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 13:40:58 [INFO    ] root:137 - 开始执行测试用例
+2025-04-08 13:40:58 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 13:40:58 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 13:40:58 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 13:40:58 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 13:40:58 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 13:40:58 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 13:41:00 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 13:41:00 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 13:41:00 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 13:41:00 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 13:41:05 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 13:41:05 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 13:41:05 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 13:41:05 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 13:41:06 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 13:41:06 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 13:41:06 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 13:41:06 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 13:41:06 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 13:41:07 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 13:41:07 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 13:41:07 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 13:41:08 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 13:41:08 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 13:41:08 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 13:41:09 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 13:41:09 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 13:41:09 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 13:41:10 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 13:41:11 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 13:41:14 [ERROR   ] root:161 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 13:41:14 [INFO    ] root:180 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 13:42:37 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:42:37 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:42:37 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:42:37 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 13:45:41 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:45:41 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:45:41 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:45:41 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 13:45:51 [INFO    ] root:137 - 开始执行测试用例
+2025-04-08 13:45:52 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 13:45:52 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 13:45:52 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 13:45:52 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 13:45:52 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 13:45:52 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 13:45:53 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 13:45:53 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 13:45:53 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 13:45:53 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 13:45:59 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 13:45:59 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 13:45:59 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 13:45:59 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 13:45:59 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 13:45:59 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 13:45:59 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 13:46:00 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 13:46:00 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 13:46:01 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 13:46:01 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 13:46:01 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 13:46:02 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 13:46:02 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 13:46:02 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 13:46:02 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 13:46:03 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 13:46:03 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 13:46:03 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 13:46:05 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 13:46:08 [ERROR   ] root:161 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 13:46:08 [INFO    ] root:180 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 13:46:54 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:46:54 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:46:54 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:46:54 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 13:55:00 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:55:00 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:55:00 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:55:01 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 13:55:30 [INFO    ] root:137 - 开始执行测试用例
+2025-04-08 13:55:30 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 13:55:30 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 13:55:30 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 13:55:30 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 13:55:30 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 13:55:30 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 13:55:31 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 13:55:31 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 13:55:31 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 13:55:31 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 13:55:37 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 13:55:37 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 13:55:37 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 13:55:37 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 13:55:38 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 13:55:38 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 13:55:38 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 13:55:38 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 13:55:38 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 13:55:39 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 13:55:39 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 13:55:39 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 13:55:40 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 13:55:40 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 13:55:40 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 13:55:41 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 13:55:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 13:55:41 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 13:55:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 13:55:43 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 13:55:46 [ERROR   ] root:161 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 13:55:46 [INFO    ] root:180 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 13:58:55 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 13:58:55 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 13:58:55 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 13:58:55 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 14:03:11 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:03:11 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:03:11 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:03:12 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 14:03:16 [ERROR   ] root:416 - 打开报告失败: [WinError 2] 系统找不到指定的文件。
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 388, in open_allure_report
+    subprocess.Popen(
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+2025-04-08 14:03:25 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:03:25 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:03:25 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:03:25 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 14:03:30 [INFO    ] root:137 - 开始执行测试用例
+2025-04-08 14:03:30 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 14:03:30 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 14:03:30 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 14:03:30 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 14:03:30 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 14:03:30 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 14:03:31 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 14:03:31 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 14:03:31 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 14:03:31 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 14:03:37 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 14:03:37 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 14:03:37 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 14:03:37 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 14:03:38 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 14:03:38 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 14:03:38 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 14:03:38 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 14:03:38 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 14:03:39 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 14:03:39 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 14:03:39 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 14:03:40 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 14:03:40 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 14:03:40 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 14:03:41 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 14:03:41 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 14:03:41 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 14:03:42 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 14:03:43 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 14:03:46 [ERROR   ] root:161 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 14:03:46 [INFO    ] root:180 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 14:04:57 [ERROR   ] root:416 - 打开报告失败: [WinError 2] 系统找不到指定的文件。
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 388, in open_allure_report
+    subprocess.Popen(
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+2025-04-08 14:05:00 [ERROR   ] root:416 - 打开报告失败: [WinError 2] 系统找不到指定的文件。
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 388, in open_allure_report
+    subprocess.Popen(
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+2025-04-08 14:20:00 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:20:00 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:20:00 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:20:01 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 14:20:03 [ERROR   ] root:416 - 打开报告失败: [WinError 2] 系统找不到指定的文件。
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 388, in open_allure_report
+    subprocess.Popen(
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+2025-04-08 14:20:10 [INFO    ] root:137 - 开始执行测试用例
+2025-04-08 14:20:10 [INFO    ] root:19 - ===== 测试会话开始 =====
+2025-04-08 14:20:10 [INFO    ] core.tlv_app:13 - TLV应用实例初始化开始
+2025-04-08 14:20:10 [DEBUG   ] MainPage:14 - 初始化页面对象: MainPage
+2025-04-08 14:20:10 [DEBUG   ] MainPage:18 - 页面对象: MainPage初始化成功
+2025-04-08 14:20:10 [INFO    ] core.tlv_app:27 - 正在进行控件: TLV Control 插入流程
+2025-04-08 14:20:10 [INFO    ] MainPage:15 - 打开插入控件窗口
+2025-04-08 14:20:12 [INFO    ] MainPage:19 - 插入控件窗口打开成功
+2025-04-08 14:20:12 [DEBUG   ] InsertControlPage:14 - 初始化页面对象: InsertControlPage
+2025-04-08 14:20:12 [DEBUG   ] InsertControlPage:18 - 页面对象: InsertControlPage初始化成功
+2025-04-08 14:20:12 [INFO    ] InsertControlPage:14 - 正在查找控件: TLV Control
+2025-04-08 14:20:17 [INFO    ] InsertControlPage:18 - 控件: TLV Control查找并选择
+2025-04-08 14:20:17 [INFO    ] InsertControlPage:24 - 关闭插入控件的窗口
+2025-04-08 14:20:18 [INFO    ] core.tlv_app:29 - 控件 TLV Control 插入流程结束
+2025-04-08 14:20:18 [INFO    ] MainPage:25 - 打开方法调用窗口
+2025-04-08 14:20:18 [INFO    ] MainPage:29 - 方法调用窗口打开成功
+2025-04-08 14:20:18 [DEBUG   ] MethodWindowPage:14 - 初始化页面对象: MethodWindowPage
+2025-04-08 14:20:18 [DEBUG   ] MethodWindowPage:18 - 页面对象: MethodWindowPage初始化成功
+2025-04-08 14:20:18 [INFO    ] MethodWindowPage:19 - 执行完整方法调用流程
+2025-04-08 14:20:19 [INFO    ] MethodWindowPage:30 - 查找并选择方法 SetConfigFileEx (Method)
+2025-04-08 14:20:19 [INFO    ] MethodWindowPage:35 - 方法 SetConfigFileEx (Method)已找到并选择
+2025-04-08 14:20:19 [INFO    ] MethodWindowPage:40 - 开始输入参数
+2025-04-08 14:20:20 [DEBUG   ] MethodWindowPage:47 - 输入参数: D:\Software\tlv\64位\test\main.dat
+2025-04-08 14:20:20 [DEBUG   ] MethodWindowPage:47 - 输入参数: False
+2025-04-08 14:20:21 [INFO    ] MethodWindowPage:50 - 参数输入完毕
+2025-04-08 14:20:21 [INFO    ] MethodWindowPage:55 - 执行调用
+2025-04-08 14:20:21 [INFO    ] MethodWindowPage:23 - 完整方法调用流程执行完毕
+2025-04-08 14:20:21 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_step0_validation
+2025-04-08 14:20:22 [INFO    ] MethodWindowPage:65 - 关闭方法窗口
+2025-04-08 14:20:22 [DEBUG   ] utils.screenshot:14 - 开始截图操作，后缀参数: BASE-001_0_xdg
+2025-04-08 14:20:23 [INFO    ] MainPage:52 - 关闭主页面
+2025-04-08 14:20:26 [ERROR   ] root:161 - 未找到allure命令，请确保已正确安装allure
+2025-04-08 14:20:26 [INFO    ] root:180 - 成功执行了 1 个测试用例，报告已生成在 ./reports/allure-results 目录
+2025-04-08 14:20:42 [ERROR   ] root:416 - 打开报告失败: [WinError 2] 系统找不到指定的文件。
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 388, in open_allure_report
+    subprocess.Popen(
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "D:\Program Files\Python311\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+2025-04-08 14:26:20 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:26:20 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:26:20 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:26:20 [INFO    ] root:62 - 日志系统初始化完成
+2025-04-08 14:35:00 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:35:00 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:35:00 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:35:00 [ERROR   ] root:97 - 运行时出错: 'builtin_function_or_method' object has no attribute 'showMessage'
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\run.py", line 94, in main
+    exit_code = run_gui_mode()
+                ^^^^^^^^^^^^^^
+  File "D:\Project\tlv_autotest\run.py", line 75, in run_gui_mode
+    controller = TestRunnerController()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\tlv_autotest\gui\test_runner_controller.py", line 22, in __init__
+    self.view = TestRunnerView()
+                ^^^^^^^^^^^^^^^^
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 70, in __init__
+    self.init_ui()
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 79, in init_ui
+    self.create_status_bar()
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 115, in create_status_bar
+    self.statusBar.showMessage('就绪')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'builtin_function_or_method' object has no attribute 'showMessage'
+2025-04-08 14:35:15 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:35:15 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:35:15 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:35:16 [ERROR   ] root:97 - 运行时出错: 'builtin_function_or_method' object has no attribute 'showMessage'
+Traceback (most recent call last):
+  File "D:\Project\tlv_autotest\run.py", line 94, in main
+    exit_code = run_gui_mode()
+                ^^^^^^^^^^^^^^
+  File "D:\Project\tlv_autotest\run.py", line 75, in run_gui_mode
+    controller = TestRunnerController()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\tlv_autotest\gui\test_runner_controller.py", line 22, in __init__
+    self.view = TestRunnerView()
+                ^^^^^^^^^^^^^^^^
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 70, in __init__
+    self.init_ui()
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 79, in init_ui
+    self.create_status_bar()
+  File "D:\Project\tlv_autotest\gui\test_runner_view.py", line 115, in create_status_bar
+    self.statusBar.showMessage('就绪')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'builtin_function_or_method' object has no attribute 'showMessage'
+2025-04-08 14:36:31 [INFO    ] root:19 - 日志文件路径: logs\tlv_auto.log
+2025-04-08 14:36:31 [INFO    ] root:73 - 以GUI模式运行
+2025-04-08 14:36:31 [INFO    ] root:88 - 已加载保存的测试用例选择状态
+2025-04-08 14:36:31 [INFO    ] root:62 - 日志系统初始化完成

@@ -1,0 +1,2 @@
+预期值: TRUE (VT_BOOL)
+实际值: TRUE (VT_BOOL)

@@ -1,0 +1,18 @@
+id: "BASE-002"
+description: "打开画面"
+steps:
+  - method: "SetConfigFileEx (Method)"
+    params:
+      - "D:\\Software\\tlv\\64位\\test\\main.dat"
+      - false
+    close_after: true  # 执行后关闭窗口
+    validations:
+      - property: "return_value"
+        expected: "TRUE (VT_BOOL)"
+  - method: "OpenWnd (Method)"
+    params:
+      - "test1"
+    close_after: true
+    validations:
+      - property: "return_value"
+        expected: "TRUE (VT_BOOL)"

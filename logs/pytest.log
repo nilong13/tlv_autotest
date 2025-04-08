@@ -1,0 +1,30 @@
+INFO     root:conftest.py:19 ===== 测试会话开始 =====
+INFO     core.tlv_app:tlv_app.py:13 TLV应用实例初始化开始
+DEBUG    MainPage:base_page.py:14 初始化页面对象: MainPage
+DEBUG    MainPage:base_page.py:18 页面对象: MainPage初始化成功
+INFO     core.tlv_app:tlv_app.py:27 正在进行控件: TLV Control 插入流程
+INFO     MainPage:main_page.py:15 打开插入控件窗口
+INFO     MainPage:main_page.py:19 插入控件窗口打开成功
+DEBUG    InsertControlPage:base_page.py:14 初始化页面对象: InsertControlPage
+DEBUG    InsertControlPage:base_page.py:18 页面对象: InsertControlPage初始化成功
+INFO     InsertControlPage:insert_control_page.py:14 正在查找控件: TLV Control
+INFO     InsertControlPage:insert_control_page.py:18 控件: TLV Control查找并选择
+INFO     InsertControlPage:insert_control_page.py:24 关闭插入控件的窗口
+INFO     core.tlv_app:tlv_app.py:29 控件 TLV Control 插入流程结束
+INFO     MainPage:main_page.py:25 打开方法调用窗口
+INFO     MainPage:main_page.py:29 方法调用窗口打开成功
+DEBUG    MethodWindowPage:base_page.py:14 初始化页面对象: MethodWindowPage
+DEBUG    MethodWindowPage:base_page.py:18 页面对象: MethodWindowPage初始化成功
+INFO     MethodWindowPage:method_window_page.py:19 执行完整方法调用流程
+INFO     MethodWindowPage:method_window_page.py:30 查找并选择方法 SetConfigFileEx (Method)
+INFO     MethodWindowPage:method_window_page.py:35 方法 SetConfigFileEx (Method)已找到并选择
+INFO     MethodWindowPage:method_window_page.py:40 开始输入参数
+DEBUG    MethodWindowPage:method_window_page.py:47 输入参数: D:\Software\tlv\64位\test\main.dat
+DEBUG    MethodWindowPage:method_window_page.py:47 输入参数: False
+INFO     MethodWindowPage:method_window_page.py:50 参数输入完毕
+INFO     MethodWindowPage:method_window_page.py:55 执行调用
+INFO     MethodWindowPage:method_window_page.py:23 完整方法调用流程执行完毕
+DEBUG    utils.screenshot:screenshot.py:14 开始截图操作，后缀参数: BASE-001_step0_validation
+INFO     MethodWindowPage:method_window_page.py:65 关闭方法窗口
+DEBUG    utils.screenshot:screenshot.py:14 开始截图操作，后缀参数: BASE-001_0_xdg
+INFO     MainPage:main_page.py:52 关闭主页面

@@ -1,0 +1,14 @@
+# 测试框架
+pytest>=7.0
+allure-pytest >=2.13.2
+
+# UI自动化
+pywinauto>=0.6.8
+
+# 数据处理
+PyYAML>=6.0
+pillow>=9.0.0  # 截图依赖
+
+# 其他工具
+python-dateutil>=2.8.2
+PyQt5~=5.15.11
